@@ -1,2 +1,2 @@
-# -security-study-notes
-   Documentando minha jornada em segurança ofensiva e CTFs sem spoilers.
+# security-study-notes
+   Documentando minha jornada em segurança experimental e CTFs sem spoilers. Anotações de OverTheWire, PicoCTF e laboratórios práticos de Linux/Redes.
