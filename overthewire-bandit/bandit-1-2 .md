@@ -1,4 +1,4 @@
-# OverTheWire Bandit - Level 1 → 2
+# 🏴‍☠️OverTheWire Bandit - Level 1 → 2
 
 **Data**: 26/04/2026  
 **Tempo gasto**: ~2 min  
