@@ -1,5 +1,9 @@
 ## 🏴‍☠️ Bandit Level 3 - OverTheWire
 
+**Data**: 28/04/2026  
+**Tempo gasto**: ~8 min  
+**Dificuldade**: ★☆☆☆☆
+
 Resolução do Level 3 do wargame Bandit da OverTheWire. Projeto focado em praticar comandos Linux básicos e conceitos de segurança.
 
 ## 🎯 Objetivo do Nível
