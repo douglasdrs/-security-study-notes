@@ -1,4 +1,4 @@
-# OverTheWire Bandit - Level 0 → 1
+# 🏴‍☠️OverTheWire Bandit - Level 0 → 1
 
 **Data:** 25/04/2026  
 **Tempo gasto:** ~5 min  
