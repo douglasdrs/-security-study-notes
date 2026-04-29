@@ -8,13 +8,14 @@ O objetivo é registrar conceitos, comandos e raciocínio de cada desafio para c
 
 ### OverTheWire Bandit
 Wargame focado em fundamentos de Linux e segurança.  
-**Progresso:** Level 3/34
+**Progresso:** Level 4/34
 
 | Level | Conceitos | Status |
 | --- | --- | --- |
 | 0 → 1 | SSH, portas, `man` | ✅ [Ver anotações](./overthewire-bandit/bandit-0-1.md) |
 | 1 → 2 | Arquivos com hífen, quoting, stdin | ✅ [Ver anotações](./overthewire-bandit/bandit-1-2.md) |
 | 2 → 3 | Arquivos ocultos, `ls -la` | ✅ [Ver anotações](./bandit-3.md) |
+| 3 → 4 | Tipos de arquivo, `file`, `./` | ✅ [Ver anotações](./bandit-3-4.md) |
 ## 🎯 Skills Desenvolvidas
 - **Linux**: Comandos, permissões, redirecionamento, pipes
 - **Redes**: SSH, portas, protocolos
